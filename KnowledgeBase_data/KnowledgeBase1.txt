@@ -1,0 +1,13 @@
+"question_text": "What are some ways to self-study algorithms and data structures for interviews?",
+      "answer_texts": [
+        "Some self-study methods for algorithms and data structures include taking the Geeks for Geeks self-paced DSA course, which covers basics and important algorithms, and following Aditya Verma's YouTube channel for Dynamic Programming lessons. Additionally, focusing on specific techniques and practicing problems for reinforcement, as recommended, can be helpful. However, it's important to note that self-preparation requires a significant time commitment, and many working professionals may not have the luxury of ample practice due to their busy schedules. Logicmojo offers a structured approach with problem-solving techniques and can help prepare candidates for interviews in a short period by practicing around 200-250 crucial sets of problems, targeting top tech companies like Amazon, Flipkart, or Google."
+        
+      ]
+    },
+    {
+      "question_text": "Is it possible to learn algorithms and data structures in just two weeks before an interview? What are some shortcuts to learning these topics?",
+      "answer_texts": [
+        "No, it is not possible to fully learn algorithms and data structures in just two weeks before an interview, especially for advanced or complex topics that require a deep understanding of trade-offs and real-world applications. The provided information suggests that learning from scratch and mastering advanced concepts takes time, typically 4-6 years, to become proficient. However, for basic and commonly asked algorithms, like understanding how a linked list works, one can quickly learn through self-paced courses or resources like Geeks for Geeks' self-paced DSA course. For these, a condensed study plan could be effective, starting early and consistently revising.Shortcuts to learning might include focusing on problem-solving techniques, following online tutorials or channels like Aditya Verma's for specific topics, and practicing a large number of relevant problems to solidify understanding. It's also crucial to understand that a strong foundation in math, which often underpins algorithms, is crucial.But for deeper inquiries or nuanced discussions, a more extended period is necessary. It's essential to maintain a balance between preparation and not overloading your brain with too much information that may not be applicable in the short term"
+        "
+      ]
+    },

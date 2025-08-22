@@ -1,0 +1,13 @@
+{
+      "question_text": "What are the courses that a non-programmer should take before beginning with AI?",
+      "answer_texts": [
+        "For non-programmers looking to start with AI, a great course to consider is "AI for Everyone" by Andrew Ng. This course is designed to provide a simple and hands-on introduction to AI, explaining the concepts without requiring complex math or coding. It's ideal for beginners and offers support for learning Python for AI and ML without prior programming experience."
+	]
+}
+{
+      "question_text": "What are the best artificial Intelligence certifications?",
+      "answer_texts": [
+        "There are several reputable AI certifications that can improve your knowledge and skills. Some top options, as of August 2023, are:Google Professional Machine Learning Engineer: Focusing on designing, building, and productionizing machine learning models, it covers areas like data preparation, feature engineering, and model optimization.IBM AI Engineering Professional Certificate: Offered on Coursera, this program covers machine learning, deep learning, and AI applications, with hands-on projects and use of IBM Watson.Microsoft Certified: Azure AI Engineer Associate: This certificate focuses on leveraging Azure AI services for AI solution development and management.It's important to remember that while certifications can complement your skills, the real value lies in understanding and applying AI concepts in practice. Consider your personal interests and career goals when choosing a certification course."
+       
+      ]
+}

@@ -1,0 +1,12 @@
+{
+      "question_text": "How is the job scenario after completing post graduation in computer science from the University of Waterloo?",
+      "answer_texts": [
+        "The job scenario for graduates with a post-graduate degree in computer science from the University of Waterloo is generally positive. They can find employment opportunities in diverse sectors like tech, finance, healthcare, and startups. There is a high demand for these professionals, and the university's reputation, co-op program, and career services support enhance employability. Salaries are usually competitive, with many starting positions offering salaries above the national average in Canada."
+        ]
+}
+{
+      "question_text": "Why are software engineers in the UK paid significantly less than those in the US?",
+      "answer_texts": [
+        "Software engineers in the UK are paid less than those in the US due to a few reasons. Firstly, the UK's software industry is heavily centralized in London, which skews the job market. London offers higher-paying jobs compared to other UK locations, creating a wage disparity. The concentration of major finance companies and banks in the area, who pay top salaries, is a significant factor. There's also a skills shortage in the UK, making skilled engineers more in demand and able to command better offers.Additionally, the US has a less centralized job market, with many states having their own powerhouse locations. This decentralization leads to a larger pool of job opportunities and a broader range of salaries. Google's example, where they initially paid below-average wages in London due to the high cost of living and employee incentives, highlights this phenomenon.Lastly, in the UK, there are myths about pay, and some companies might offer higher salaries to attract talent, but this is not consistent across the country. In contrast, the US has a broader range of salaries with no one-size-fits-all approach, and salaries might be more evenly distributed at the same level. The cost of living is also higher in London, which reduces the purchasing power of equivalent salaries."
+        ]
+}

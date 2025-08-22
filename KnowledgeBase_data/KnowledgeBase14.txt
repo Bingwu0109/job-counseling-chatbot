@@ -1,0 +1,6 @@
+ {
+      "question_text": "What should a Computer Science student know before internship?",
+      "answer_texts": [
+        "Before an internship in Computer Science, a student should have a solid foundation in programming languages such as Python and Java, a grasp of data structures and algorithms, knowledge of system programmingcompilers, database management systems), and familiarity with mobile app and web development. It's also beneficial to have experience with advanced programming languages like C++, XML, and understanding machine learning and data science. If focusing on app development, both frontend and backend skills are crucial.Additionally, having an online portfolio showcasing projects and actively contributing to coding competitions can enhance their portfolio. Practicing whiteboard coding and familiarizing yourself with coding questions from top companies like Google, Microsoft, and Amazon can boost technical skills and make you more competitive. Soft skills, such as analytical reasoning, are equally important to complement technical expertise for a successful internship."
+       ]
+ }

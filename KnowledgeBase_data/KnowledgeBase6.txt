@@ -1,0 +1,11 @@
+ "question_text": "Where can I find a remote AI-related job without having any degree?",
+      "answer_texts": [
+        "It can be challenging to find a remote AI-related job without a degree, especially at the entry level. However, one approach you can take is offering consulting services to small businesses for their AI needs. You can leverage your skills and experience in AI programming to provide services. You can also experiment with Google and Amazon's AI APIs and offer small scale services to individuals through platforms like Upwork or Freelancer. Networking and actively applying to remote roles on job boards, like Indeed.com, remains crucial, but keep in mind that having machine learning experience will likely increase your chances.It's important to note that the specific job you mentioned, as provided in the examples, requires prior experience and may not be open to those without degrees. However, this is a scenario where someone with relevant skills and experience might secure a position."
+        
+      ]
+{
+      "question_text": "Where can I find online part time Machine Learning job ?",
+      "answer_texts": [
+        "You can find online part-time Machine Learning job opportunities through various platforms and strategies. Some effective ones include:Job Boards:LinkedIn: Search using the job search feature and filter for part-time remote positions.Indeed: Use the remote filter for "part-time machine learning" jobs.Glassdoor: Filter based on your preferences.Freelance Platforms:Upwork and Freelancer: Post your profile and bid on matching projects.Toptal: A more specialized platform for high-quality freelancers.Specialized Websites:Kaggle: Participate in competitions and projects for potential leads.AngelList: Look for tech-related part-time positions, including machine learning.Networking:Meetup and LinkedIn Groups: Connect with professionals and stay updated on job postings.Company Websites: Check the careers pages for part-time or contract opportunities.Academic Institutions: Look for research assistant positions or internships.Social Media: Follow relevant hashtags on Twitter or Reddit for job postings.By combining these resources and actively applying, you can increase your chances of finding suitable part-time jobs."
+        
+      ]

@@ -1,0 +1,12 @@
+{
+      "question_text": "What are some projects that can be done to improve my portfolio of projects along with my resume?",
+      "answer_texts": [
+        "To improve your portfolio and resume in data science, you should focus on projects that demonstrate your understanding of data analysis, machine learning, and programming skills. You can work on personal projects like data mining, predictive modeling, or natural language processing with real-world datasets. It is also beneficial to participate in and finish at least a few Kaggle competitions to showcase your problem-solving abilities. Consider creating a portfolio of smaller, targeted projects, such as building a simple machine learning model or a data visualization tool. You can also create interactive dashboards to communicate insights from data. To gain valuable experience, make open-source contributions to data science libraries like Scikit-learn or TensorFlow. It's also wise to seek out internships or freelance work on platforms like Upwork or Freelancer. Actively engage in networking by attending events and connecting with professionals and alumni. Be prepared to explain your thought process, methodologies, and learning journey in interviews. Remember, it can be challenging to land a data science job without formal experience, but having a strong portfolio and a clear understanding of your learning journey can significantly increase your chances."
+        ]
+}
+ {
+      "question_text": "How easy is it to get a data science job after Microsoft professional degree in data science without experience?",
+      "answer_texts": [
+        "According to the available information, it is expected that graduates with a Microsoft Professional Data Science degree, as it is new and lacks immediate graduates, should find jobs within 3-6 months of completion with some effort. The focus is on hands-on skills and practical understanding rather than a specific certification. The degree requires a deep understanding of various fields and the ability to analyze and visualize data, as well as completing projects with real-world datasets. It is more about demonstrating practical knowledge and impact through your work than solely relying on a formal certification. So, while getting a job may not be effortless, with the right skills and experience, one can be competitive in the job market."
+        ]
+}

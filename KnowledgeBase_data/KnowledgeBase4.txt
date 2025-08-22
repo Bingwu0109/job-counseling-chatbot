@@ -1,0 +1,11 @@
+"question_text": "Which deep learning framework between Tensorflow or PyTorch should I choose for NLP research?",
+      "answer_texts": [
+        "For NLP research, PyTorch is often recommended due to its dynamic computation graphs, which are easier to debug and accommodate complex NLP tasks with variable input lengths. PyTorch also has a strong presence in the research community, with popular libraries and models developed within the framework. While TensorFlow has a larger ecosystem and industry adoption, the choice should align with your specific needs and the support available. It's recommended to consider both and try out the frameworks to determine the best fit for your project"
+        
+      ]
+{
+      "question_text": "Which deep learning framework should I learn, between Tensorflow, Theono, Caffe, or Torch, if I have not much time and I have to choose only one?",
+      "answer_texts": [
+        "For a quick choice given limited time and considering the context of the provided information, which is from a time when PyTorch was not included, I would recommend learning TensorFlow. TensorFlow is the newest among the frameworks mentioned and is gaining popularity rapidly, with Google's support and consistent development. It has a strong industry presence and a large community, making it easier to find resources and support. However, keep in mind that PyTorch is a better fit for many and has become increasingly popular in recent years. If you have the opportunity to learn both, it would be ideal to choose the one that aligns with your personal and professional goals."
+        
+      ]

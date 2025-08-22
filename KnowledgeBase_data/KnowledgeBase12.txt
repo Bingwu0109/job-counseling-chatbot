@@ -1,0 +1,12 @@
+"question_text": "What's the best way to negotiate a higher salary if you have multiple job offers from large tech companies?",
+      "answer_texts": [
+        "When negotiating a higher salary with multiple job offers from large tech companies, be honest and transparent. Share your reasons for wanting to work with each company, emphasizing the aspects that appeal to you. Let them know about the competing offers with expiration dates and express your desire to hear back from them before making a decision. If the company genuinely wants you, they will likely accommodate your request or offer a competitive package. Remember, your value and negotiations should be based on your qualifications, skills, and the specific role, not just the initial offer figures."
+       ]
+}
+
+ {
+      "question_text": "As a software engineer, do you need competing offers from multiple tech companies to negotiate a higher salary?",
+      "answer_texts": [
+        "No, you don't necessarily need competing offers from multiple tech companies to negotiate a higher salary. However, having them can provide leverage and support your case when discussing salary with a specific company. It's important to be honest and communicate your value, the reasons for your interest in the company, and the time constraint of the other offers. If the company truly wants you, they may be willing to adjust the salary to secure your commitment. The focus should be on demonstrating your qualifications and the value you bring, rather than solely relying on the external offers."
+        ]
+}

@@ -1,0 +1,13 @@
+{ 
+"question_text": "What advice would you give to a recent computer science graduate?",
+      "answer_texts": [
+        "Here are some suggestions for a recent computer science graduate:Build a strong portfolio by creating projects that showcase your skills, using platforms like GitHub to host your code. Include diverse projects in web development, algorithms, and data analysis.Network by attending meetups, conferences, and workshops related to your interests, and join online communities like LinkedIn, Stack Overflow, or relevant subreddits to connect with professionals and peers.Continuously learn to keep up with new technologies and programming languages, as the tech field evolves rapidly. Online courses, coding bootcamps, and tutorials can help with this.Embrace change and avoid being too attached to any one technology. Develop problem-solving expertise and write a lot of code, especially early in your career.Recognize the importance of soft skills, such as communication and navigating corporate or consulting environments, as these are critical beyond technical abilities."
+        
+      ]
+}
+{
+"question_text": "Should a computer science student look for internships in the field of data analysis to get into the field or work more on skills before placements?",
+      "answer_texts": [
+        "While an internship in data analysis can be beneficial for computer science students looking to enter the field, it's not a strict requirement. It depends on the individual's career goals. If you're specifically interested in data analytics and have a strong foundation in computer science, an internship can help solidify your skills and provide hands-on experience. On the other hand, if you're still developing your general engineering skills or want a broader perspective, working on projects that involve data analysis could be more pressing.If you lack a particular skill that is common in the field, looking for internships is a way to gain that experience and show potential employers. However, if you're struggling to find internships in data analytics, focusing on improving your core technical skills and working on projects relevant to the field can be a better strategy until opportunities arise. Ultimately, the key is to find a balance between gaining practical experience and refining your technical abilities."
+        ]
+}

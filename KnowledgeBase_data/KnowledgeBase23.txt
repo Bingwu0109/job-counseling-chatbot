@@ -1,0 +1,12 @@
+{
+      "question_text": "What is the job market like for software developers in London, UK?",
+      "answer_texts": [
+        "As of September 2023, the job market for software developers in London, UK, has shifted from a booming period in 2021 and early 2022, where it was easy to find jobs with starting salaries around £40-£45,000, especially for those with little to no prior experience. The demand for developers has decreased, leading to an over-supply, with new graduates facing longer job search durations and seasoned professionals finding it more competitive. The situation seems to be more challenging, with developers at all levels, including those with two years of commercial experience, desperately seeking work. While there is still a demand for top-level developers, the overall market is not as optimistic as it was before. The perception from those currently employed may still be positive, but external candidates are likely to encounter a more challenging environment."
+        ]
+}
+{
+      "question_text": "I want to work with a fintech company, I'm a computer science graduate but not a good software developer or programmer, what other fields can I focus?",
+      "answer_texts": [
+        "If you're a computer science graduate looking to work in a fintech company but not a strong software developer, you could consider focusing on the business aspect instead. Business analysis certifications like IJP or specializing in areas like business analysis or data analysis could be beneficial. You may also want to focus on growing technologies like big data, Scala, or Hadoop, as these are in high demand in the fintech industry, especially if your current work involves more backend systems, databases, and data handling.Keep in mind that given your background, if you struggle with detail and preciseness in computer science, fintech, with its emphasis on data and precision, might not be the ideal technical environment. Project management, while related, would require a lot of detail-oriented work, and roles in product design or data analysis, which involve working with large data sets and complex systems, might be a challenge as well.In summary, consider transitioning into business analysis, data analyst, or specialized areas within technology that align better with your strengths, or focus on tech skills that complement your current work in a fintech setting."
+        ]
+}

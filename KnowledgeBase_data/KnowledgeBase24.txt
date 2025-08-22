@@ -1,0 +1,12 @@
+ {
+      "question_text": "Which tech companies provide work-life balance?",
+      "answer_texts": [
+        "Several tech companies are recognized for promoting work-life balance. Examples include Google, Microsoft, Salesforce, Adobe, Slack, Zoom, GitHub, LinkedIn, Apple, and Shopify. These companies offer flexible work arrangements, generous leave policies, and supportive workplace cultures that aim to support employee well-being. However, individual experiences may differ, so it's recommended to check specific teams and roles for a more accurate understanding."
+        ]
+}
+ {
+      "question_text": "Which is the best career in cyber security vs. networking in the UK?",
+      "answer_texts": [
+        "Based on the provided information, both networking and cybersecurity have their own merits for career growth. Networking is about ensuring the smooth operation of a network, while cybersecurity focuses on safeguarding data and users from cyber threats. The choice between the two depends on personal interest and current job market demand.In the UK, cybersecurity is often considered more important due to the increasing frequency and sophistication of cyber attacks. The demand for skilled cybersecurity professionals is higher, as cyber adversaries become more active and sophisticated. Therefore, if you're looking for the best career prospects in this field, cybersecurity would be the more attractive option in the UK.However, it's crucial to note that both fields require continuous learning and hard work, and the availability of resources may vary. If you're more interested in the technical aspects and enjoy solving problems related to network security, networking could also be a good fit. Ultimately, the best choice depends on your individual preferences and the job market conditions."
+        ]
+}

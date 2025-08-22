@@ -1,0 +1,12 @@
+{
+      "question_text": "How important is networking on LinkedIn compared to other job search strategies? Why?",
+      "answer_texts": [
+        "Networking on LinkedIn is extremely important because it offers a unique combination of access to job opportunities and the ability to build a professional network. Instead of solely focusing on finding a job, one should aim to create an effective network that enables them to either find or create job opportunities for themselves. LinkedIn's large professional user base and the platform's emphasis on professional connections make it a powerful tool for networking. This network can lead to job referrals, insights into the hiring process, and potential job openings that may not be advertised publicly. While other job search strategies like job boards and direct applications are also important, a strong network on LinkedIn amplifies those efforts and can significantly enhance your chances of success."
+        ]
+}
+{
+"question_text": "Is LinkedIn a good place to get job? Or its a good place for networking?",
+      "answer_texts": [
+        "LinkedIn is a platform that serves both networking and job search purposes. It is primarily a networking platform where you can build a professional network and connect with professionals in your desired field. However, it's also a valuable source for job opportunities, as recruiters often post positions on the platform. The key is to have a clear objective when using LinkedIn for job search, focusing on building a strong network and creating opportunities, rather than solely stating that you're looking for a job. By leveraging the platform effectively, you can stand out and increase your chances of finding or creating job opportunities."
+        ]
+}

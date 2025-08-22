@@ -1,0 +1,14 @@
+{
+"question_text": "What advice would you give to a computer science student? What is expected from a computer science fresher? How do I hone my coding skills so that I am ready for the real world?",
+      "answer_texts": [
+        "Focus on core programming skills in languages like C, C++, Java, Python, and XML. Gain a solid understanding of algorithms, data structures, and system programming. Familiarize yourself with machine learning, data science, mobile app development, and web development.Create an online portfolio to showcase your work. Participate in coding projects, contribute to open-source repositories, and build your own projects to demonstrate your abilities.Stay current with the latest advancements in technology. Regularly practice coding problems, especially those from top companies, to gain a competitive advantage. Additionally, hone your problem-solving, communication, and teamwork skills. Learn to manage your time effectively and work on projects independently.Read job descriptions to understand the skills required for internships and full-time positions. Attend conferences and meetups to connect with industry professionals. Seek out internships or part-time work to gain practical experience. Practice whiteboard coding to prepare for technical interviews and participate in coding challenges to improve your problem-solving and speed. Always keep learning by taking online courses, reading blogs, and attending workshops.The real world expects you to not only have technical skills but also the ability to adapt, learn, and work effectively in a collaborative environment."
+]
+}
+       
+
+{
+      "question_text": "What advice can you give me on starting my first job as a software developer?",
+      "answer_texts": [
+        "Starting your first job as a software developer involves adapting to a new work environment and acquiring essential skills. Here's a concise and professional guide to help you succeed: You should understand company culture by observing and engaging with your colleagues. Familiarize yourself with the codebase, seek documentation, and ask questions to learn it. Stay updated with industry trends, technologies, and best practices through continuous learning. Communication is key—clarify expectations, provide regular updates, and practice good habits. Use version control tools effectively and embrace feedback during code reviews. Set goals for learning by identifying areas for improvement and creating a plan. Prioritize tasks and maintain a healthy work-life balance for good time management. Build relationships with colleagues and mentors and join tech communities for networking. Maintain good development habits by practicing good coding practices. Finally, be patient and realistic, recognizing that it takes time to become proficient. By following these suggestions, you'll set a strong foundation for your career as a software developer."
+]
+}

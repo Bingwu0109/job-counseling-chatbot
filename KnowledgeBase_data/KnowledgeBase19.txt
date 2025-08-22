@@ -1,0 +1,12 @@
+ {
+      "question_text": "What is the best job to start with as a computer science student? I’ve been told to look into networks. Is that worth it?",
+      "answer_texts": [
+        "As a computer science student, the best job to start with depends on your personal interests and strengths. If you're told to look into networks, that could potentially be worth it if you are passionate about network administration and system management. However, the job market evolves, and with the increasing shift towards cloud-based systems, local system administration roles might not offer significant growth opportunities. In the past, there was a high demand for network engineers and router specialists, so if you stay updated with the industry and have a knack for that area, it could be a viable choice. It's always a good idea to consider your long-term career goals and explore different roles to find what suits you best."
+       ]
+}
+ {
+      "question_text": "How can I get a computer science job while I'm still in college?",
+      "answer_texts": [
+        "To get a computer science job while in college, focus on building a strong foundation by taking core courses in algorithms, data structures, operating systems, and databases. Additionally, engage in projects, both personal and open-source, to apply your knowledge and create a portfolio to demonstrate your skills. Apply for internships at tech companies, which can provide real-world experience and improve your resume. Networking is crucial, attend career fairs and events to connect with professionals in the field. Ultimately, stay updated by preparing for certifications relevant to your desired area (like Oracle, SQL, or cybersecurity) and consider graduate school if the job market becomes competitive."
+        ]
+}

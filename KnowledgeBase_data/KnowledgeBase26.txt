@@ -1,0 +1,12 @@
+{
+      "question_text": "What can companies do to better support women in tech?",
+      "answer_texts": [
+        "Companies can take several steps to better support women in tech. To reduce unconscious bias during hiring, they should redact names from resumes and track the number of female candidates interviewed, then publish this data to raise awareness and educate employees. Companies can also offer training on effective meeting participation and leadership roles for women. It's crucial to diversify leadership by hiring women for senior technical roles like VPs and CTOs, not just managers, and to promote women through all ranks to break the glass ceiling. Additionally, they must enforce zero tolerance policies against gender-based incompetence claims and monitor for and address gender disparities in promotions. Encouraging women to form their own networks and hosting events for learning and recruiting are also effective strategies. Ultimately, companies must foster a culture where technical skills are respected, regardless of gender."
+       ]
+}
+ {
+      "question_text": "Do diversity hiring goals at tech companies include LGBT status?",
+      "answer_texts": [
+        "Yes, some tech companies have diversity goals that include LGBT individuals as part of their efforts for inclusivity. These companies aim to provide inclusive healthcare, a safe work environment, and fair interviews where being transgender is not a disqualifying factor. However, it's important to note that discrimination based on transgender status is legal in the majority of the US, and individuals in this situation may still face challenges. The focus is on creating an environment where gender identity doesn't affect the decision-making process, and candidates are evaluated based on their skills and merit."
+       ]
+}

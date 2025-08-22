@@ -1,0 +1,10 @@
+"question_text": "What are some platforms to look for remote Machine Learning/Data Science/AI jobs? P.S: I am from South Asia.",
+      "answer_texts": [
+        "One platform you can consider for finding remote Machine Learning, Data Science, or AI jobs, especially if you're from South Asia, is Jarvis. They specialize in connecting freelance and remote AI/data science talent with companies. Keep in mind that collaboration tools are improving, making it easier for remote work, so the distinction between on-site and remote may become less significant. However, it's always a good idea to explore various job boards and websites like LinkedIn, Upwork, GitLab, and Indeed for a broader range of opportunities"
+        
+"question_text": "Can I work remotely as a Machine Learning Engineer?",
+      "answer_texts": [
+        "Yes, you can work remotely as a Machine Learning Engineer. According to the provided information, remote ML jobs are possible, and the speaker has had successful remote experiences in this role. To find such opportunities, you can apply to jobs on platforms like Indeed.com and be prepared for a competitive job market, as having prior machine learning experience can increase your chances."
+        
+      ]
+    },

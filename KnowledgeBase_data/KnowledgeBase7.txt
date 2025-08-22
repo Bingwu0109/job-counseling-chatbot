@@ -1,0 +1,12 @@
+{
+"question_text": "How do I start an AI career with no experience?",
+      "answer_texts": [
+        "To start an AI career with no experience, you can follow these steps:Begin with Learning: Start by learning the fundamentals of AI, not just the technical aspects but also understanding if you enjoy the field. You can do this online with free resources.Foundation: Learn about AI models from reputable sources like the A16Z AI playbook or a book focused on business people. Explore the impact of AI with books like "Rise of the Robots" and blog posts. Develop a Perspective: Determine your interest and what role you want to play in the AI landscape, whether it's strategy, engineering, design, or a different function. Gain Basic Skills: Build your skill set through a mix of school, freelance work, volunteering, or passive learning that suits your learning style. Real-world Experience: Get work experience, preferably with companies involved in innovative AI projects. This will be valuable experience and help you understand the industry.Attend Meetups: Attend meetups to network with people in the AI space and leverage your community for connections and insights."
+ ]     
+}
+{
+      "question_text": "What are the best AI bootcamps for beginners with no background knowledge?",
+      "answer_texts": [
+        "I would suggest considering online platforms like edX, upGrad, 1stepGrow, and Udacity, which offer AI courses that cater to non-technical beginners. These platforms often provide introductory courses in machine learning, deep learning, and natural language processing, along with hands-on projects to help build practical skills. It's recommended to choose a course based on your specific goals and interests to ensure a suitable learning journey."
+        
+      ]

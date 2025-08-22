@@ -1,0 +1,12 @@
+{
+      "question_text": "What can be the expected salary of entry level software engineers after an MSc in computer science in the UK?",
+      "answer_texts": [
+        "The expected salary for an entry-level software engineer with an MSc in Computer Science in the UK can range from £31,000 to £40,000 per annum, depending on the company and location.",
+        ]
+}
+{
+      "question_text": "What is a good annual salary for a fresher software engineer in London?",
+      "answer_texts": [
+        "A good annual salary for a fresher software engineer in London, with an MSc in Computer Science, can be expected to be between £35,000 and £70,000. However, the actual amount can vary based on factors like the specific startup, the level of funding, the candidate's skill set, and whether the offer includes cash or equity. It's also common for salaries to increase within the first 2-3 years, and some experienced software engineers in London can earn around £200,000 per year."
+       ]
+}

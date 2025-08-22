@@ -1,0 +1,5 @@
+
+"question_text": "What is the average salary for a machine learning engineer in Silicon Valley, California?",
+      "answer_texts": [
+        " The average salary for a machine learning engineer in Silicon Valley, California, can be estimated as around  130 , 000 t o 130,000to170,000 per year, but this can vary depending on factors such as experience, company, and specific roles."
+        ]
